@@ -99,5 +99,5 @@
 
 </body>
 
-<script type="text/javascript" src="Mygame.js"></script>
+<script type="text/javascript" src="Mygame/Mygame.js"></script>
 </html>
